@@ -44,8 +44,3 @@ Try the application using Expo Go: `https://expo.io/@abdul-mubeen/SRU`
   - stylelint integration
   - automatic format on save (toggle format on save)
 - be aware of the `.prettierignore` file
-
-## Demo
-
-[Demo Video](https://youtu.be/JZRkSpPgbg4 "Demo Video - Click to Watch!")
-
